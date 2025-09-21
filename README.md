@@ -46,13 +46,4 @@ Click below to access the live app:
 
 ---
 
-## 🚀 Deployment
 
-Deployed on **GitHub Pages** using the `gh-pages` branch.  
-
-To deploy or update:
-
-```bash
-npm install
-npm run build
-npm run deploy
