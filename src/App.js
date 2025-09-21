@@ -7,7 +7,7 @@ function App() {
     <>
       <Navbar title="Count Everything" aboutText="About Uss"/> 
       <div className="container my-3">
-        <TextForm heading = "Enter the text here"/> 
+        <TextForm heading = "Start typing below"/> 
       </div>
         
 
