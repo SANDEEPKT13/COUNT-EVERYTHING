@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/COUNT-EVERYTHING/static/css/main.de1ea73a.css",
-    "main.js": "/COUNT-EVERYTHING/static/js/main.5c40266b.js",
+    "main.js": "/COUNT-EVERYTHING/static/js/main.88464b91.js",
     "static/js/453.5b81c6b1.chunk.js": "/COUNT-EVERYTHING/static/js/453.5b81c6b1.chunk.js",
     "index.html": "/COUNT-EVERYTHING/index.html",
     "main.de1ea73a.css.map": "/COUNT-EVERYTHING/static/css/main.de1ea73a.css.map",
-    "main.5c40266b.js.map": "/COUNT-EVERYTHING/static/js/main.5c40266b.js.map",
+    "main.88464b91.js.map": "/COUNT-EVERYTHING/static/js/main.88464b91.js.map",
     "453.5b81c6b1.chunk.js.map": "/COUNT-EVERYTHING/static/js/453.5b81c6b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de1ea73a.css",
-    "static/js/main.5c40266b.js"
+    "static/js/main.88464b91.js"
   ]
 }
